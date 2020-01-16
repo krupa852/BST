@@ -1,0 +1,6 @@
+Inserting values to linked list successful
+
+(head) => 12 => 45 => 67 => 89 => 67 => null
+Reversed linkedlist successful
+
+(head) => 67 => 89 => 67 => 45 => 12 => null

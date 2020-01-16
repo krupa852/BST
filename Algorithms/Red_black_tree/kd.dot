@@ -1,0 +1,13 @@
+digraph RBT {
+  node [style=filled, color=black, shape=circle, fontname=Arial, fontcolor=white];
+    20 -> 0;
+    20 -> 10;
+    10 -> 0;
+    10 -> 15;
+    15 -> 0;
+ 15[fillcolor=red];
+    15 -> 0;
+    20 -> 30;
+    30 -> 0;
+    30 -> 0;
+}
